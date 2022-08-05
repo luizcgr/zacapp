@@ -12,12 +12,10 @@ Nosso site coleta e utiliza alguns dados pessoais seus, de forma a viabilizar a 
  - Email: utilizado para identificar o usuário e registrar sua atividade dentro do aplicativo. O email também será utilizado para realizar o processo de autenticação fornecendo os acessos disponível de acordo com cada perfil de usuário.
 
 ### 1.2. Dados pessoais coletados automaticamente
- Dado e finalidade
- Dado e finalidade
- Dado e finalidade
- Dado e finalidade
  
- ## 2. Como coletamos os seus dados?
+ Não coletamos dados de forma automática. Todos os dados são preenchidos através de cadastro no próprio aplicativo.
+ 
+## 2. Como coletamos os seus dados?
 
 Nesse sentido, a coleta dos seus dados pessoais ocorre da seguinte forma:
 
@@ -33,7 +31,7 @@ Assim, em consonância com a Lei Geral de Proteção de Dados Pessoais (LGPD), s
 
 O seu consentimento será obtido de forma específica para cada finalidade acima descrita, evidenciando o compromisso de transparência e boa-fé da Zac Soluções para com seus usuários/clientes, seguindo as regulações legislativas pertinentes.
 
-Ao utilizar os serviços da Zac Soluções e fornecer seus dados pessoais, você está ciente e consentindo com as disposições desta Política de Privacidade, além de conhecer seus direitos e como exercê-los.
+Ao utilizar os serviços e fornecer seus dados pessoais, você está ciente e consentindo com as disposições desta Política de Privacidade, além de conhecer seus direitos e como exercê-los.
 
 É importante destacar que a revogação do consentimento para o tratamento dos dados pode implicar a impossibilidade da performance adequada de alguma funcionalidade do site que dependa da operação. Tais consequências serão informadas previamente.
 
@@ -51,6 +49,7 @@ Informar-se sobre a possibilidade de não fornecer seu consentimento e sobre as 
 
 
 ## 4. Como você pode exercer seus direitos de titular?
+
 Para exercer seus direitos de titular, você deve entrar em contato com a Zac Soluções através dos seguintes meios disponíveis:
 
  - luizcgr@gmail.com
